@@ -1,3 +1,4 @@
+I am preparing for gate exam specially DA and CSE 
 - 👋 Hi, I’m @RamdasE
 - 👀 I’m interested in playing cricket and learning tech skills
 - 🌱 I’m currently learning MERN stack
