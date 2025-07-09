@@ -1,11 +1,15 @@
-I am preparing for gate exam specially DA and CSE 
-- 👋 Hi, I’m @RamdasE
-- 👀 I’m interested in playing cricket and learning tech skills
-- 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...Can everyone reach me on my linkedin plotform
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m @RamdasE
+
+- 💼 Appointed as a **Trainee Software Engineer** in the **Simulation Department**
+- 🔧 Working on **real-time 3D simulation technologies** using **Python** and **C++**
+- 🤝 Collaborating with senior engineers and contributing to:
+  - **Simulation model development**
+  - **Internal automation tools**
+- 🛠️ Participating in **Agile development practices**
+- 🚀 Enhancing my skills in:
+  - **Software engineering**
+  - **Debugging**
+  - **Technical documentation**
 
 <!---
 RamdasE/RamdasE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
